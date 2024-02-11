@@ -45,6 +45,7 @@ Prefix list association added to private route table:
 ![alt text](/images/prefix_list.png)
 
 S3 Bucket:
+
 ![alt text](/images/s3bucket.png)
 
 Accessing S3 bucket from private host via gateway endpoint:
